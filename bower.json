@@ -5,6 +5,9 @@
   "authors": [
     "k-zakhariy"
   ],
+  "main" : [
+    "src/js/embed-video.js"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/k-zakhariy/embed-video",
   "ignore": [
