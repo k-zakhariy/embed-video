@@ -20,6 +20,8 @@ $ gulp --production
 
 See in example folder
 
+https://k-zakhariy.github.io/embed-video/examples/
+
 ### Usage
 
 ```html
