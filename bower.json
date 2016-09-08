@@ -1,0 +1,21 @@
+{
+  "name": "embed-video",
+  "description": "Embed youtube && vimeo video iframe with thumbs",
+  "main": "index.js",
+  "authors": [
+    "k-zakhariy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/k-zakhariy/embed-video",
+  "ignore": [
+    "**/.*",
+    "dist",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
